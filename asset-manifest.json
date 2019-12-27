@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elizky/citasConHooks/static/css/main.4a0a90cb.chunk.css",
+    "main.js": "/elizky/citasConHooks/static/js/main.3b528318.chunk.js",
+    "main.js.map": "/elizky/citasConHooks/static/js/main.3b528318.chunk.js.map",
+    "runtime-main.js": "/elizky/citasConHooks/static/js/runtime-main.55e01cbc.js",
+    "runtime-main.js.map": "/elizky/citasConHooks/static/js/runtime-main.55e01cbc.js.map",
+    "static/js/2.f4004562.chunk.js": "/elizky/citasConHooks/static/js/2.f4004562.chunk.js",
+    "static/js/2.f4004562.chunk.js.map": "/elizky/citasConHooks/static/js/2.f4004562.chunk.js.map",
+    "index.html": "/elizky/citasConHooks/index.html",
+    "precache-manifest.e50212afe3e9975e444033785017ca7e.js": "/elizky/citasConHooks/precache-manifest.e50212afe3e9975e444033785017ca7e.js",
+    "service-worker.js": "/elizky/citasConHooks/service-worker.js",
+    "static/css/main.4a0a90cb.chunk.css.map": "/elizky/citasConHooks/static/css/main.4a0a90cb.chunk.css.map",
+    "static/js/2.f4004562.chunk.js.LICENSE": "/elizky/citasConHooks/static/js/2.f4004562.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55e01cbc.js",
+    "static/js/2.f4004562.chunk.js",
+    "static/css/main.4a0a90cb.chunk.css",
+    "static/js/main.3b528318.chunk.js"
+  ]
+}
